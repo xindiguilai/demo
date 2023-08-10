@@ -3,3 +3,5 @@
 phpinfo();
 
 echo '123';
+
+echo 'welcome';
