@@ -2,4 +2,4 @@
 
 echo '66';
 
-echo 'zwb'
+echo 'zwb';
