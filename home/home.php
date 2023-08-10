@@ -5,3 +5,5 @@ phpinfo();
 echo '123';
 
 echo 'welcome';
+
+echo 'dev';
